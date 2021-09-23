@@ -1,0 +1,64 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 104px auto 60px;
+}.u-section-2 .u-sheet-1 {
+  min-height: 325px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 24px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 72px;
+  height: 72px;
+  background-image: url("images/clownfish-1021x1024.jpg");
+  background-position: 50% 50%;
+  margin: 27px auto 0 24px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: -72px auto 0 110px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 8px auto 60px 110px;
+}.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 76px auto 0;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1500ms;
+  margin: 122px auto 60px;
+  padding: 21px 50px 22px 49px;
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 82px;
+    margin-right: -12px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 116px;
+  }
+}
